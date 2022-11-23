@@ -1,8 +1,8 @@
 
-function card() {
+function card(props) {
   return (
     <div>
-      <h1> Hello React World Practice</h1>
+      <h1> { props.text }</h1>
     </div>
   )
 }
