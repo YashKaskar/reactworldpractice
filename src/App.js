@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
           <Card  text = 'Hello I am Yash Kaskar'/> 
-          <Card text = 'Hello React World Practice' />
+          <Card text='Hello React World Practice' />
     </div>
   );
 }
